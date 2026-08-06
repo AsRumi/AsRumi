@@ -1,0 +1,261 @@
+<h1 align="center">Mohammed Mutahar</h1>
+
+<p align="center">
+  <b>Multimodal Deep Learning</b> · Vision-Language Models · <b>GPU Systems</b>
+</p>
+
+<p align="center">
+  MS Computer Science, AI/ML Specialization &nbsp;·&nbsp; Northeastern University (Khoury) &nbsp;·&nbsp; Boston, MA
+</p>
+
+<p align="center">
+  <!-- TODO(2): LinkedIn URL - defined at the bottom as TODO_LINKEDIN_URL -->
+  <a href="https://www.linkedin.com/in/mohammed-mutahar-695b6a221/"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn"></a>
+  <!-- TODO(3): Email - defined at the bottom as TODO_EMAIL_ADDRESS -->
+  <a href="mailto:mohammedmutahar3@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=BB9AF7" alt="Email"></a>
+  <!-- TODO(4): Portfolio URL - Next.js + Supabase site, still in development -->
+  <a href="www.github.com/AsRumi"><img src="https://img.shields.io/badge/Portfolio-coming%20soon-1A1B27?style=for-the-badge&logo=vercel&logoColor=9ECE6A" alt="Portfolio - coming soon"></a>
+</p>
+
+---
+
+I'm a first-year MS CS student at Northeastern (AI/ML specialization, graduating **Fall 2027**), working mainly on **multimodal deep learning** - the messy, interesting part where vision, audio, and language have to agree with each other. Most of what I build starts from a dataset or evaluation problem rather than a model choice: how do you get ground-truth emotional response data, how do you know a cache is returning the _right_ answer, how do you prove a LoRA rank was the correct one.
+
+Alongside that I'm deliberately building **GPU systems / kernel programming** skills (Triton, PyTorch internals, Flash Attention) - a layer _on top of_ the ML foundation, aimed at ML Systems and AI Infrastructure work, not a pivot away from research.
+
+---
+
+## 📊 GitHub Activity
+
+<!--
+  DISABLED: the public github-readme-stats instance returns 503 (over quota).
+  To re-enable: fork anuraghazra/github-readme-stats, deploy it to Vercel with a
+  PAT_1 env var, swap the hostname below for your own, then uncomment.
+  (count_private=true only works on your own instance with your own token.)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AsRumi&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsRumi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+</p>
+-->
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AsRumi&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
+
+<!--
+  DISABLED: the public github-profile-trophy instance returns 402 (billing limit).
+  To re-enable: self-host ryo-ma/github-profile-trophy on Vercel, swap the
+  hostname below, then uncomment.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AsRumi&theme=tokyonight&no-frame=true&column=4" alt="Profile Trophies">
+</p>
+-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AsRumi&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph">
+</p>
+
+<!--
+  Contribution snake - requires .github/workflows/snake.yml (generated alongside
+  this README). Commit the workflow, run it once from the Actions tab, and the
+  image below starts resolving. Delete this block if you skip the workflow.
+-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AsRumi/AsRumi/output/snake.svg" alt="Contribution Snake">
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**ML / Deep Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1E7B45?style=flat-square&logo=apacheecharts&logoColor=white)
+
+**Computer Vision / NLP**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-4B5BBF?style=flat-square&logo=pytorchlightning&logoColor=white)
+
+**LLM / Agentic**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20Embeddings-6E56CF?style=flat-square&logo=databricks&logoColor=white)
+
+**Backend / Infra**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+**GPU / Systems** _(in progress)_
+
+![Triton](https://img.shields.io/badge/Triton-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎭 AffectSync
+
+Multimodal pipeline that records real-time facial emotion via webcam while a video plays, producing a timestamped dataset that pairs frames, detected emotion, confidence scores, and dialogue transcript. It exists to solve the **cold-start problem** for generative models that need ground-truth human emotional response data - the dataset _is_ the deliverable, not the classifier.
+
+`DeepFace` `Whisper` `OpenCV` `Python`
+
+[**→ Repository**][affectsync]
+
+</td>
+<td width="50%" valign="top">
+
+### 🏀 HalfCourt
+
+Predicts NBA game outcomes from **halftime box scores alone**, then generates broadcast-style analysis. 43 engineered features feed three swappable models (XGBoost / LogReg / multi-head PyTorch DNN) behind one shared interface, with SHAP for interpretability. The LLM layer is deliberately constrained to _explain_ the model's prediction and never to generate its own; team identity is excluded as a feature so the model stays robust to roster changes.
+
+`nba_api` `XGBoost` `PyTorch` `SHAP` `LangChain`
+
+[**→ Repository**][halfcourt]
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎼 Conductor
+
+Multi-agent deep-research pipeline - **Planner → Researcher → Synthesizer → Writer** - orchestrated as a LangGraph state graph that emits structured markdown research reports. FastAPI + Celery + Redis + Postgres form the async, fault-tolerant execution layer, with LangGraph state checkpointed to Postgres so long runs are resumable. Written to double as an educational reference: the code and README teach agent orchestration from first principles.
+
+`Python` `LangGraph` `Gemini API` `FastAPI` `Celery` `Redis` `Postgres`
+
+[**→ Repository**][conductor]
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Semantic Caching Layer
+
+An LLM-fronting cache that matches queries by **meaning rather than exact text**, cutting redundant model calls. It's an AI-engineering project wearing a backend costume: the real substance is tuning the similarity threshold τ, where too strict throws away savings and too loose confidently serves the wrong answer. Ships with an eval harness measuring hit precision/recall, latency, and dollars saved.
+
+`FastAPI` `OpenAI Embeddings` `FAISS` `Redis` `Gemini API`
+
+[**→ Repository**][semantic-cache]
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡 ContentGuard
+
+Offline, **CPU-only** desktop video player with AI-based explicit-content detection and automatic scene-skipping. Scan-first architecture: the entire video is analyzed before playback and results are cached by file hash, so repeat opens are instant. Skip markers use a self-scaling safety buffer (`sweep_interval + 1` seconds) instead of a hardcoded value, which avoids false negatives right at scene transitions.
+
+`NudeNet (ONNX Runtime)` `PyAV` `python-mpv` `SQLite`
+
+[**→ Repository**][contentguard]
+
+</td>
+<td width="50%" valign="top">
+
+### ♠️ Royal Spades
+
+LAN multiplayer Spades, built to actually play with friends rather than as an exercise: one laptop runs the server and a shared TV "table" while players join by QR code and use their phones as controllers. Fully **server-authoritative** - phones send intents and never compute outcomes. Custom "Royal Casino" aesthetic with switchable themes and a card-back maker.
+
+`Node` `Express` `Socket.IO` `React` `TypeScript` `Tailwind`
+
+[**→ Repository**][royal-spades]
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔧 LoRA Fine-Tuning Pipeline
+
+From-scratch **QLoRA** fine-tune of Qwen2.5-1.5B-Instruct on natural-language → structured-JSON extraction, a task picked specifically because its eval metric is clean and automatic (valid-JSON rate, per-field exact match). Includes a rank sweep over r ∈ {4, 8, 16, 32} to empirically justify the chosen rank, and strict loss masking on the completion only - the most common silent failure mode in LoRA fine-tuning.
+
+`PyTorch` `bitsandbytes` `Colab T4`
+
+[**→ Repository**][lora]
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Triton / GPU Systems
+
+**Currently learning** - a deliberate skill investment in GPU kernel programming, targeted at ML Systems / AI Infrastructure roles as a layer on top of an ML background rather than a pivot from it.
+
+**Roadmap:** PyTorch internals → GPU execution model → Triton tutorials → reimplementing Flash Attention → Nsight profiling.
+
+![status](https://img.shields.io/badge/status-in%20progress-BB9AF7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📄 Research & Certifications
+
+**Published paper** - _"Advanced Hair Fall Analysis: Machine Learning and Deep Learning for Detection and Diagnosis"_ · CNN-based alopecia detection and classification, >95% diagnostic accuracy in early-stage detection.
+
+**Certifications**
+
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Microsoft Certified](https://img.shields.io/badge/Microsoft-Certified-1A1B27?style=for-the-badge&logo=microsoft&logoColor=7AA2F7)
+
+---
+
+## 🥋 Beyond the Code
+
+- **Head of Events** for my university's BJJ club
+- NBA fan
+- Love playing cards (not gambling :D)
+- Love building PCs
+
+---
+
+<!--
+════════════════════════════════════════════════════════════════════════════════
+LINK DEFINITIONS
+════════════════════════════════════════════════════════════════════════════════
+-->
+
+[affectsync]: https://github.com/AsRumi/AffectSync
+[halfcourt]: https://github.com/AsRumi/HalfCourt
+[conductor]: https://github.com/AsRumi/AgentOrchestration
+[semantic-cache]: https://github.com/AsRumi/Semantic-Caching
+[contentguard]: https://github.com/AsRumi/ContentGuard
+[royal-spades]: https://github.com/AsRumi/Royal-Spades
+[lora]: https://github.com/AsRumi/Qwen-Lora-Finetuning
+[triton]: https://github.com/AsRumi

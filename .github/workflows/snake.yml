@@ -1,0 +1,41 @@
+name: Generate Snake
+
+# Renders the contribution-graph snake animation used in README.md.
+# Output is committed to the `output` branch, which the README links to via
+# https://raw.githubusercontent.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>/output/snake.svg
+#
+# TODO: nothing to edit here — `github.repository_owner` resolves your username
+# automatically. Just commit this file, then trigger it once:
+#   Actions tab → "Generate Snake" → Run workflow
+
+on:
+  schedule:
+    # every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

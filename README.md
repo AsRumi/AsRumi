@@ -1,7 +1,4 @@
 <picture>
-  <!-- Commas in the color= gradient MUST be %2C-encoded: srcset is a comma-separated
-       candidate list, so GitHub truncates the URL at the first raw comma and the
-       text= param is lost. VS Code's preview is lenient about this; GitHub is not. -->
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B27%2C50:7AA2F7%2C100:BB9AF7&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=C0CAF5&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C7D2FE%2C50:7AA2F7%2C100:A78BFA&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=1A1B27&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B27,50:7AA2F7,100:BB9AF7&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=C0CAF5&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none" alt="Mohammed Mutahar">
@@ -30,9 +27,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7AA2F7,100:BB9AF7&amp;height=3" alt="">
 
-I'm a first-year MS CS student at Northeastern (AI/ML specialization, graduating **Fall 2027**), working mainly on **multimodal deep learning** - the messy, interesting part where vision, audio, and language have to agree with each other. Most of what I build starts from a dataset or evaluation problem rather than a model choice: how do you get ground-truth emotional response data, how do you know a cache is returning the _right_ answer, how do you prove a LoRA rank was the correct one.
+I'm a first-year MS CS student at Northeastern (AI/ML specialization, graduating **Fall 2027**), working mainly on **multimodal deep learning** - the part where vision, audio, and language have to agree with each other. Most of what I build starts from a dataset or an evaluation problem rather than a model choice: how do you get ground-truth emotional response data, how do you know a cache is returning the _right_ answer, how do you prove a LoRA rank was the correct one.
 
-Alongside that I'm deliberately building **GPU systems / kernel programming** skills (Triton, PyTorch internals, Flash Attention) - a layer _on top of_ the ML foundation, aimed at ML Systems and AI Infrastructure work, not a pivot away from research.
+Alongside that I'm deliberately building **GPU systems / kernel programming** skills (Triton, PyTorch internals, Flash Attention) - a layer _on top of_ the ML foundation, aimed at ML Systems and AI Infrastructure work, and not a pivot away from my ML and AI research.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:7AA2F7,100:BB9AF7&amp;height=3" alt="">
 

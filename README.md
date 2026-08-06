@@ -1,6 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B27,50:7AA2F7,100:BB9AF7&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=C0CAF5&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C7D2FE,50:7AA2F7,100:A78BFA&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=1A1B27&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
+  <!-- Commas in the color= gradient MUST be %2C-encoded: srcset is a comma-separated
+       candidate list, so GitHub truncates the URL at the first raw comma and the
+       text= param is lost. VS Code's preview is lenient about this; GitHub is not. -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B27%2C50:7AA2F7%2C100:BB9AF7&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=C0CAF5&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:C7D2FE%2C50:7AA2F7%2C100:A78BFA&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=1A1B27&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1B27,50:7AA2F7,100:BB9AF7&amp;height=190&amp;section=header&amp;text=Mohammed%20Mutahar&amp;fontColor=C0CAF5&amp;fontSize=52&amp;fontAlignY=38&amp;animation=none" alt="Mohammed Mutahar">
 </picture>
 
